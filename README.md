@@ -55,8 +55,8 @@ Hi there! I'm a **Software Engineer** and **Full Stack Web Developer** with prof
 
 - **Email:** [ibraheemyasin23@gmail.com](mailto:ibraheemyasin23@gmail.com)
 - **Portfolio:** [your-portfolio-link](#)
-- **LinkedIn:** [your-linkedin-profile](#)
-- **GitHub:** [github.com/your-username](https://github.com/your-username)
+- **LinkedIn:** [Ibraheem Yasin Gill]([#](https://www.linkedin.com/in/ibraheem-yasin-gill-webdeveloper2001/))
+- **GitHub:** [github.com/devloper45](https://github.com/devloper45)
 - **Freelance Platforms:** [Upwork](#), [Fiverr](#)
 
 ---
