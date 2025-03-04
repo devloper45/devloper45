@@ -15,14 +15,14 @@ Hi there! I'm a **Software Engineer** and **Full Stack Web Developer** with prof
 
 ### Back-End Development
 - **Frameworks & Tools:** Node.js, Express.js, Django, Django REST Framework (DRF)
-- **Database Management:** MongoDB, PostgreSQL, MySQL
+- **Database Management:** MongoDB, MySQL
 - **Authentication & Security:** JWT, OAuth, Socket.IO
 
 ### Full Stack & Other Expertise
-- **Full-Stack Frameworks:** MERN (MongoDB, Express.js, React.js, Node.js)
+- **Full-Stack Frameworks:** MERN (MongoDB, Express.js, React.js, Node.js) ,React & Django
 - **E-commerce Platforms:** Shopify (Liquid)
-- **Real-time Applications:** Chat Applications, Live Notifications, WebSockets
-- **DevOps & Tools:** Docker, CI/CD Pipelines, Git, GitHub, RESTful APIs, GraphQL
+- **Real-time Applications:** Chat Applications, WebSockets
+- **DevOps & Tools:** Docker, CI/CD Pipelines, Git, GitHub, RESTful APIs
 
 ---
 
@@ -55,7 +55,7 @@ Hi there! I'm a **Software Engineer** and **Full Stack Web Developer** with prof
 
 - **Email:** [ibraheemyasin23@gmail.com](mailto:ibraheemyasin23@gmail.com)
 - **Portfolio:** [your-portfolio-link](#)
-- **LinkedIn:** [Ibraheem Yasin Gill]([(https://www.linkedin.com/in/ibraheem-yasin-gill-webdeveloper2001/)])
+- **LinkedIn:** [Ibraheem Yasin Gill](https://www.linkedin.com/in/ibraheem-yasin-gill-webdeveloper2001/)
 - **GitHub:** [github.com/devloper45](https://github.com/devloper45)
 - **Freelance Platforms:** [Upwork](#), [Fiverr](#)
 
