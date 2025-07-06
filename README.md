@@ -15,7 +15,7 @@ Hi there! I'm a **Software Engineer** and **Full Stack Web Developer** with prof
 
 ### Back-End Development
 - **Frameworks & Tools:** Node.js, Express.js, Django, Django REST Framework (DRF)
-- **Database Management:** MongoDB, MySQL
+- **Database Management:** MongoDB, MySQL,Postgres,Redis
 - **Authentication & Security:** JWT, OAuth, Socket.IO
 
 ### Full Stack & Other Expertise
@@ -54,6 +54,7 @@ Hi there! I'm a **Software Engineer** and **Full Stack Web Developer** with prof
 ## 📬 Let's Connect!
 
 - **Email:** [ibraheemyasin23@gmail.com](mailto:ibraheemyasin23@gmail.com)
+- **Contact:**  [+923097922390]
 - **Portfolio:** [your-portfolio-link](#)
 - **LinkedIn:** [Ibraheem Yasin Gill](https://www.linkedin.com/in/ibraheem-yasin-gill-webdeveloper2001/)
 - **GitHub:** [github.com/devloper45](https://github.com/devloper45)
